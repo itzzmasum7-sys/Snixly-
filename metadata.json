@@ -1,0 +1,6 @@
+{
+  "name": "SNIXLY",
+  "description": "SNIXLY — Social platform centered around People + Control + Privacy + Creation + Discovery + Communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
